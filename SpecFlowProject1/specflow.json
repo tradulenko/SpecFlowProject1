@@ -1,0 +1,6 @@
+﻿{
+  "stepAssemblies": {
+    { "assembly": "Hooks" },
+    { "assembly" : "StepDefinitions" }
+  }
+}
